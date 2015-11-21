@@ -22,7 +22,8 @@ def drawTri():
     triangle(0,700, randrange(0,1000), randrange(0,1000), randrange(0,1000), randrange(0,1000))
     fill(randrange(00,239),randrange(0,247),randrange(20,225))
     triangle(0,700, randrange(0,1000), randrange(0,1000), randrange(0,1000), randrange(0,1000))
-/Git editing
+/Git push
+/Git Change
 
 frameRate(21)
 onLoop+=drawTri
